@@ -1,0 +1,9 @@
+{
+  "description": "CMA-ES with reflection (rodeolib)",
+  "type": "MATLAB",
+  "path": "optimizers/MATLAB/rodeolib",
+  "routine": "cmaes",
+  "mu": 5,
+  "lambda": 10,
+  "constraint_routine": "reflect_bc"
+}

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/iso2mesh/!svn/ver/364/trunk/jsonlab
+END
+mergestruct.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/iso2mesh/!svn/ver/333/trunk/jsonlab/mergestruct.m
+END
+AUTHORS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/iso2mesh/!svn/ver/363/trunk/jsonlab/AUTHORS.txt
+END
+savejson.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iso2mesh/!svn/ver/341/trunk/jsonlab/savejson.m
+END
+loadjson.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iso2mesh/!svn/ver/360/trunk/jsonlab/loadjson.m
+END
+ChangeLog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/iso2mesh/!svn/ver/363/trunk/jsonlab/ChangeLog.txt
+END
+LICENSE_BSD.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/iso2mesh/!svn/ver/309/trunk/jsonlab/LICENSE_BSD.txt
+END
+LICENSE_GPLv3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/iso2mesh/!svn/ver/309/trunk/jsonlab/LICENSE_GPLv3.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iso2mesh/!svn/ver/364/trunk/jsonlab/README.txt
+END
+varargin2struct.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/iso2mesh/!svn/ver/335/trunk/jsonlab/varargin2struct.m
+END

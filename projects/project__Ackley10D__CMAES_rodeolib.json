@@ -1,0 +1,7 @@
+{
+  "description": "Ackley 10D, CMA-ES with reflection (rodeolib)",
+  "type": "MATLAB",
+  "problem_json": "problems/Ackley10D.json",
+  "optimizer_json": "optimizers/CMAES_rodeolib.json",
+  "run_json": "projects/run__default.json"
+}

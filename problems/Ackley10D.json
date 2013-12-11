@@ -1,0 +1,10 @@
+{
+  "description": "Ackley 10D",
+  "type": "python",
+  "path": "problems/python",
+  "routine": "ackley.py",
+  "dimension": 10,
+  "lowerbound": [-5; -5; -5; -5; -5; -5; -5; -5; -5; -5],
+  "upperbound": [5; 5; 5; 5; 5; 5; 5; 5; 5; 5],
+  "optimum": [ [0; 0; 0; 0; 0; 0; 0; 0; 0; 0] ]
+}
